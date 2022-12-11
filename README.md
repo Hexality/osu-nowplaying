@@ -16,4 +16,4 @@ A small program meant to show in obs the current playing song on osu!lazer.
 >> ![image](https://user-images.githubusercontent.com/17398632/196119805-5773b536-fe63-4cc7-a038-b2193bba5276.png)
 
 
-## *** Notice: sometimes the window may look stuck, if that happens, just close by right-clicking the icon onthe taskbar and closing or simply close then close the window.
+## *** Notice: sometimes the window may look stuck, if that happens, just close by right-clicking the icon on the taskbar and closing or simply close then close the window.
