@@ -7,7 +7,7 @@ A small program meant to show in obs the current playing song on osu!lazer.
 > Create a .txt file called id.txt and place your discord id onto it, then join [this server (required)](https://discord.gg/FRu7Bf5UhK).
 
 > Open the .exe
->> in case you want to use the .ps1, you'll need to install [powershell 7](https://github.com/Powershell/Powershell/releases/latest) then `pwsh -c ". $(Join-Path ((Get-Location).Path) app.ps1)"`
+>> in case you want to use the .ps1, you'll need to install [powershell 7](https://github.com/Powershell/Powershell/releases/latest) then open powershell in the folder you put the files and do `pwsh -c ". $(Join-Path ((Get-Location).Path) app.ps1)"`
 
 #### How to get your id:
 > Right click > Copy ID
