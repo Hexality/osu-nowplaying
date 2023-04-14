@@ -3,31 +3,49 @@
   <p/>
   <p>A small program made to show your current playing osu! song on OBS.</p>
 </div>
+<h1></h1>
+<details>
+  <summary align="center">How to use it:</summary>
+  <blockquote align="left">
+    <blockquote>
+      <p>Be sure to install both <a href="https://github.com/PowerShell/PowerShell/releases/latest">PowerShell 7.3.2 (or later)</a> and <a href="https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/runtime-desktop-7.0.5-windows-x64-installer">.NET 7 WDR</a></p>
+    </blockquote>
+    <p><sup>1.</sup> Place all files in a folder</p>
+    <p><sup>2.</sup> Join <a href="https://discord.gg/lanyard">Lanyard</a>'s Discord server</p>
+    <p><sup>3.</sup> Open the game</p> 
+    <blockquote>
+      <sup><p>The game is required for it to work, it will close as soon as the game closes (unless timer* is paused))</p></sup>
+      <blockquote>
+        <sup><p>* <i>the play button on the top</i></p></sup>
+      </blockquote>
+    </blockquote>
+    <p><sup>4.</sup> Open the <ins>app.exe</ins> and insert your Discord ID onto the input box of the popup and press Confirm.</p>
+    <p><sup>5.</sup> Press  <sub><img width="20" height="20" src="https://user-images.githubusercontent.com/17398632/232096319-63fa6f14-77b8-402a-a80a-3fb9a70f9383.svg"></sub> to start outputting.
+    <blockquote>
+      <p>Be sure to press <sub><img width="20" height="20" src="https://user-images.githubusercontent.com/17398632/232096900-98505a8a-6070-4179-b07d-9a2427a0f237.svg"></sub> before closing.
+    </blockquote
+</blockquote>
+<div align="center">
+  <h3></h3>
+    <p><b>P.S.:</b></p>
+    <p><i>If the window gets stuck, right-click the icon on the taskbar and close it from there.</i></p>
+  </div>
+</details>
 
-### How to use it:
-> Be sure to install both [PowerShell 7.3.2 (or later)](https://github.com/PowerShell/PowerShell/releases/latest) and [.NET 7 WDR](https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/runtime-desktop-7.0.5-windows-x64-installer)
+<details>
+<summary align="center">How to get your id:</summary>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/17398632/232106664-4a04578d-5f0c-4c22-a13f-905b597ea2e1.png" alt="Right click > Copy ID">
+</div>
+</details>
 
-> Place all files in a folder
+<div align="center">
+  <h1></h1>
+  <h3>Donations</h3>
+  <a href="https://ko-fi.com/U7U71X5BN"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+</div>
 
-> Join [Lanyard](https://discord.gg/lanyard)'s Discord server
-
-> Open the game (The game is required for it to work, it will close as soon as the game closes (unless timer¹ is paused)) 
->> `[¹] the play button on the top`
-
->> `[²] the .exe version may give a false-positive due to the lack of app signature. If you're not confident about it, open the .ps1 with PowerShell 7.3 (or later)`
-
-> Open the `app.exe` and insert your Discord ID onto the input box of the popup and press Confirm.
-
-> Press  <img width="20" height="20" src="https://user-images.githubusercontent.com/17398632/232096319-63fa6f14-77b8-402a-a80a-3fb9a70f9383.svg"> to start outputting.
->> Be sure to press <img width="20" height="20" src="https://user-images.githubusercontent.com/17398632/232096900-98505a8a-6070-4179-b07d-9a2427a0f237.svg"> before closing.
-
-
-#### How to get your id:
-> Right click > Copy ID
-
-<img src="https://user-images.githubusercontent.com/17398632/231944353-aed4cd93-0088-4b9a-9599-b36d2f0a6fa9.png">
-<img src="https://user-images.githubusercontent.com/17398632/231944367-8f966cdd-8fd8-4033-87d1-ee5cafe21347.png">
-
-<p>If the window gets stuck, right-click the icon on the taskbar and close it from there.</p>
-
-> **This software is _"compiled"_ using [IronManSoftware/PowerShellPackager](https://ironmansoftware.com/release/powershell-packager)**
+<div align="center">
+<h1></h1>
+<p><b>This software is <i>"compiled"</i> using <a href="https://ironmansoftware.com/release/powershell-packager">IronManSoftware/PowerShellPackager</a></b></p>
+</div>
