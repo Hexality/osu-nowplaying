@@ -11,8 +11,9 @@
 
 > Join [Lanyard](https://discord.gg/lanyard)'s Discord server
 
-> Open the game (The game is required for it to work, it will close as soon as the game closes (unless timer* is paused)) 
->> `[*] the play button on the top`
+> Open the game (The game is required for it to work, it will close as soon as the game closes (unless timer¹ is paused)) 
+>> `[¹] the play button on the top`
+>> `[²] the .exe version may give a false-positive due to the lack of app signature. If you're not confident about it, open the .ps1 with PowerShell 7.3 (or later)`
 
 > Open the `app.exe` and insert your Discord ID onto the input box of the popup and press Confirm.
 > 
