@@ -1,19 +1,23 @@
-# osu-nowplaying
-A small program meant to show in obs the current playing song on osu!lazer.
+<div align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/17398632/231942994-0ce362a2-b0cb-4484-9e16-ca15034c14cb.png">
+  <p/>
+  <p>A small program made to show your current playing osu! song on OBS.</p>
+</div>
 
 ### How to use it:
 > Place all files in a folder
+> Join [Lanyard](https://discord.gg/lanyard)'s Discord server
+> Open the game (The game is required for it to work, it will close as soon as the game closes (unless timer* is paused)) 
+>> `[*] the play button on the top`
 
-> Create a .txt file called id.txt and place your discord id onto it, then join [this server (required)](https://discord.gg/FRu7Bf5UhK).
-
-> Open the .exe
->> in case you want to use the .ps1, you'll need to install [powershell 7](https://github.com/Powershell/Powershell/releases/latest) then open powershell in the folder you put the files and do `pwsh -c ". $(Join-Path ((Get-Location).Path) app.ps1)"`
+> Open the `app.exe` and insert your Discord ID onto the input box of the popup and press Confirm.
+> 
 
 #### How to get your id:
 > Right click > Copy ID
 
->> ![image](https://user-images.githubusercontent.com/17398632/196119570-77a23334-0919-478a-ae1b-38b180bb3a11.png)
->> ![image](https://user-images.githubusercontent.com/17398632/196119805-5773b536-fe63-4cc7-a038-b2193bba5276.png)
+<img src="https://user-images.githubusercontent.com/17398632/231944353-aed4cd93-0088-4b9a-9599-b36d2f0a6fa9.png">
+<img src="https://user-images.githubusercontent.com/17398632/231944367-8f966cdd-8fd8-4033-87d1-ee5cafe21347.png">
 
 
-## *** Notice: sometimes the window may look stuck, if that happens, just close by right-clicking the icon on the taskbar and closing or simply press close then close the window.
+<p>If the window gets stuck, right-click the icon on the taskbar and close it from there.</p>
