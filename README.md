@@ -5,8 +5,12 @@
 </div>
 
 ### How to use it:
+> Be sure to install both [PowerShell 7.3.2 (or later)](https://github.com/PowerShell/PowerShell/releases/latest) and [.NET 7 WDR](https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/runtime-desktop-7.0.5-windows-x64-installer)
+
 > Place all files in a folder
+
 > Join [Lanyard](https://discord.gg/lanyard)'s Discord server
+
 > Open the game (The game is required for it to work, it will close as soon as the game closes (unless timer* is paused)) 
 >> `[*] the play button on the top`
 
