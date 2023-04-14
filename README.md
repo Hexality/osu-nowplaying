@@ -17,7 +17,10 @@
 >> `[²] the .exe version may give a false-positive due to the lack of app signature. If you're not confident about it, open the .ps1 with PowerShell 7.3 (or later)`
 
 > Open the `app.exe` and insert your Discord ID onto the input box of the popup and press Confirm.
-> 
+
+> Press  <img width="20" height="20" src="https://user-images.githubusercontent.com/17398632/232096319-63fa6f14-77b8-402a-a80a-3fb9a70f9383.svg"> to start outputting.
+>> Be sure to press <img width="20" height="20" src="https://user-images.githubusercontent.com/17398632/232096900-98505a8a-6070-4179-b07d-9a2427a0f237.svg"> before closing.
+
 
 #### How to get your id:
 > Right click > Copy ID
