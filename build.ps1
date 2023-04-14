@@ -1,8 +1,6 @@
 # Run this script with powershell. Not Powershell 7 aka pwsh.exe
 # This script is used to build the project.
-
-# Imstall ps2exe
-
+# Install ps2exe
 # check if ps2exe is installed
 
 if(!(Get-Module ps2exe -ListAvailable)) {
