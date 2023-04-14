@@ -25,5 +25,6 @@
 <img src="https://user-images.githubusercontent.com/17398632/231944353-aed4cd93-0088-4b9a-9599-b36d2f0a6fa9.png">
 <img src="https://user-images.githubusercontent.com/17398632/231944367-8f966cdd-8fd8-4033-87d1-ee5cafe21347.png">
 
-
 <p>If the window gets stuck, right-click the icon on the taskbar and close it from there.</p>
+
+> **This software is _"compiled"_ using [IronManSoftware/PowerShellPackager](https://ironmansoftware.com/release/powershell-packager)**
